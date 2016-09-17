@@ -15,3 +15,7 @@ Added a Thomas Keller Quote and picture
 Saturday September 17th, 3:01PM
 Making another change so that we have a merge conflict since we had minor confusion on location of changelog entries
 - Spencer
+
+4:03PM Sept 17, 2016
+Added random function to generate random authors in the welcome controller
+-Francis
